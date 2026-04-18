@@ -47,7 +47,7 @@ Simply spin up your Claude/Codex or whatever you want in this repo (and disable 
 Hi have a look at program.md and let's kick off a new experiment! let's do the setup first.
 ```
 
-The `program.md` file is essentially a super lightweight "skill".
+The `program.md` file is essentially a super lightweight "skill". For GitHub Copilot Skills, see `.github/skills/autoresearch/SKILL.md`.
 
 ## Project structure
 
