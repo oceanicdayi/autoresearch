@@ -47,6 +47,12 @@ Simply spin up your Claude/Codex or whatever you want in this repo (and disable 
 Hi have a look at program.md and let's kick off a new experiment! let's do the setup first.
 ```
 
+Or directly ask in Chinese, for example:
+
+```
+利用此skill（技能）研究地震預警系統
+```
+
 The `program.md` file is essentially a super lightweight "skill".
 
 This repository now also includes a Copilot agent skill at:
