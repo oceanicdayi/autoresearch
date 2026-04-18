@@ -49,6 +49,12 @@ Hi have a look at program.md and let's kick off a new experiment! let's do the s
 
 The `program.md` file is essentially a super lightweight "skill".
 
+This repository now also includes a Copilot agent skill at:
+
+```
+.github/skills/autoresearch-experiment/SKILL.md
+```
+
 ## Project structure
 
 ```
