@@ -12,7 +12,7 @@ Use this skill to run autonomous research loops in this repository.
 ## Setup
 
 1. Propose a run tag from today (for example `mar5`) and confirm branch `autoresearch/<tag>` does not exist.
-2. Create the branch from current master: `git checkout -b autoresearch/<tag>`.
+2. Create the branch from the current default branch (for example `main`): `git checkout -b autoresearch/<tag>`.
 3. Read `README.md`, `prepare.py`, and `train.py`.
 4. Check that `~/.cache/autoresearch/` has prepared data and tokenizer; if missing, ask the user to run `uv run prepare.py`.
 5. Create `results.tsv` with header:
